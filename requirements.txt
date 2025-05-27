@@ -1,0 +1,9 @@
+pandas
+matplotlib
+seaborn
+scikit-learn
+Pillow
+python-whois
+tkhtmlview
+reportlab
+requests
